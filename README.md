@@ -1,2 +1,3 @@
 # sreeyella.github.io
-personal page
+
+Here I am going to keep a record of all the stuff I am learning and practising on day to day basis.
